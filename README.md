@@ -36,7 +36,5 @@ The `dashboard-1.pdf` file provides a detailed preview of the dashboard.
 
 ![Dashboard](3.png)
 
-## Acknowledgments
 
-Special thanks to the **360 YP community** for their support and resources.
 
